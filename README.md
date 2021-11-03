@@ -3,4 +3,4 @@ A game maded with assest of a dead game. Assests taken from this link : https://
 
 If you want to play right now use this link https://simmer.io/@Taha/long-live-glitch
 
-Made on December 23, 2019. Uploaded on github on December 1, 2020.
+<img src="https://github.com/TahaMetin/Long-Live-Glitch-/blob/main/long live glitch.gif"/>
