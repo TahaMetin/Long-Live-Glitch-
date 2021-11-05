@@ -1,5 +1,5 @@
 # Long-Live-Glitch-
-A game maded with assest of a dead game. Assests taken from this link : https://www.glitchthegame.com/
+A game maded with assest of a dead game. Assests taken from https://www.glitchthegame.com/
 
 If you want to play right now use this link https://simmer.io/@Taha/long-live-glitch
 
